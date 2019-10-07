@@ -1,2 +1,2 @@
 # CRMeteoQL
-Dashboard redesign
+Dashboard redesigns
